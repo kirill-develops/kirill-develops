@@ -12,7 +12,7 @@ I am a web developer specializing in JavaScript, React (including Context API, b
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-develops&show_icons=true&theme=nightowl)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-develops&show_icons=true&theme=nightowl)-->
 <!--
 **kirill-develops/kirill-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
