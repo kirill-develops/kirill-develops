@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Kirill Tchentsov 👋
+I am a web developer specializing in JavaScript, React (including Context API, building custom hooks and Redux for state management), Next.js, Node.js and API construction to create responsive and engaging digital dashboards that drive customer engagement and revenue growth. Additionally, I have experience with AWS and Git/GitHub, allowing me to optimize workflows and ensure efficient project delivery. I'm enthusiastic about test-driven development principles through frameworks like jest and cyprus, relational & noSQL databases (MySQL and MongoDB), authentication using Oauth2 and passport.js and diving deeper into TypeScript. My passion for competency into industry standards and adopting innovative approaches enables me to deliver top-notch solutions that exceed client expectations.
 
+### Get In Touch 📱
+<a href="https://www.linkedin.com/in/kirill-tchentsov/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kirill.develops@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+### Languages and Tools 🔧
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=React&color=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-develops&show_icons=true&theme=nightowl)
 <!--
 **kirill-develops/kirill-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
