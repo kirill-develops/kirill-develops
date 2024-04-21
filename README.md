@@ -6,7 +6,9 @@ I am a web developer specializing in JavaScript, React (including Context API, b
 <a href="mailto:kirill.develops@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### Languages and Tools 🔧
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/React?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"> <img alt="Node.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nodedotjs&logoColor=%23339933"> <img alt="Static Badge" src="https://img.shields.io/badge/aws-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E">
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-develops&show_icons=true&theme=nightowl)
